@@ -1,3 +1,4 @@
+![Image showing the difference between Monolithic architecture and Microservices architecture](content://media/external/downloads/1000100042)
 <h2>Monolithic Architecture:</h2>
 
 > <i><b>Monolith</b></i> means composed all in one piece.
@@ -9,5 +10,6 @@
 
 > <b>Microservices architecture</b> also simply known as <i>microservices</i>, is a software development model that relies on a series of independently deployable services.
 > These services have their own business logic and database with a specific goal.
+
 
 
