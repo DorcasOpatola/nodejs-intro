@@ -15,4 +15,8 @@
 <p>While I totally understand the whole concept of microservices, it will be a total waste of resources for small scale applications.</p>
 
 
+</br>
+<b>YES</b>, NodeJS is a multithreaded language.
 
+
+</br>                            <b>REPL</b> means Read, Print, Evaluate, Loop.
