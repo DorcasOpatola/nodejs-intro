@@ -16,7 +16,7 @@
 
 
 </br>
-<b>YES</b>, NodeJS is a multithreaded language.
+<b>YES</b>, NodeJS is a single threaded language. It can become multithreaded through the help of event loops.
 
 
 </br>                            <b>REPL</b> means Read, Print, Evaluate, Loop.
